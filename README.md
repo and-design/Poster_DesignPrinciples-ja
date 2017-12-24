@@ -8,13 +8,13 @@ Japanese version of GOV.UK Design Principle Poster
 政府は政府でしかできないことだけをするべきです。何かできることがわかったら、再利用できるよう、共有できるようにするべきです。毎回「車輪の再発明」は必要ありません。つまり、プラットフォームを作ること、APIなど外部の組織や個人が使えるものを提供することです。私たちはこれ以上減らすことができないコアに集中すべきです。
 
 # 3. データからデザインする
-多くの場合、私たちは実際のユーザーがどのように既存システムを利用しているか見ることで学ぶことができます。人の感や推測ではなく、データに判断をさせましょう。Keep doing that after taking your service live, prototyping and testing with users then iterating in response. Analytics should be built-in, always on and easy to read. They’re an essential tool.
+多くの場合、私たちは実際のユーザーがどのように既存システムを利用しているか見ることで学ぶことができます。人の感や推測ではなく、データに判断をさせましょう。サービスがライブになってから、プロトタイピング、ユーザーテストの後も継続的にデータを取りましょう。そうすることでイタレーション（反復）することができます。分析は組み込まれている必要があります。常にデータが取れ、簡単である必要があります。必須ツールです。
 
 # 4. シンプルにするためにハードワークをする
-Making something look simple is easy. Making something simple to use is much harder - especially when the underlying systems are complex - but that’s what we should be doing. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.
+見た目をシンプルにするのは簡単です。シンプルに使えるようにするのはもっと難しいです、特にそれを実現するシステムが複雑な場合は。しかし、それが政府としてやらなければいけないことです。「これまでそうだった」を質問の答えとして受け入れないように。シンプルにするのはハードワークが必要ですが、それが正しいことなのです。
 
 # 5. 反復、そして反復
-The best way to build good services is to start small and iterate wildly. Release minimum viable products early, test them with actual users, move from alpha to beta to live adding features, deleting things that don’t work and making refinements based on feedback. Iteration reduces risk. It makes big failures unlikely and turns small failures into lessons. If a prototype isn’t working, don’t be afraid to scrap it and start again.
+良いサービスを作る最良の方法は小さく作ってワイルドに反復して改善することです。初期からMVPをリリースして実際のユーザーとテストしましょう。アルファ、ベータ、ライブに移行するごとに機能を追加したり動かない機能を削除します。これはフィードバックからの改善によるものです。反復はリスクを削減します。大失敗を回避することを助け、小さな失敗を学びとします。プロトタイプがうまくいかない場合、それを捨てて新しくスタートすることを恐れないように。
 
 # 6. 全ての人のために
 Accessible design is good design. Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the whole country, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
