@@ -23,14 +23,17 @@ Japanese version of GOV.UK Design Principle Poster
 私たちはスクリーンのためにデザインをしているのではなく、人のためにデザインをしています。その人たちが私たちのサービスを利用する背景をよく理解しなければいけません。彼らは図書館にいるのでしょうか？電話を使ってるのでしょうか？Facebookしか使わないのでしょうか？そもそもWebを使ったことがあるのでしょうか？
 
 # 8. Webサイトではなくデジタルサービスを作る
-A service is something that helps people to do something. Our job is to uncover user needs, and build the service that meets those needs. Of course much of that will be pages on the web, but we’re not here to build websites. The digital world has to connect to the real world, so we have to think about all aspects of a service, and make sure they add up to something that meets user needs.
+サービスとは誰かが何かをする助けとなるものです。私たちの仕事はユーザーのニーズを表面化し、そのニーズを満たすものを作ることです。もちろん、その多くはWebページかもしれません。しかし私たちはWebサイトを作っているのではありません。デジタルの世界はリアルな世界と繋がらなければいけません。ユーザーニーズを満たすために私たちはサービスの全ての側面について考えないといけません。
 
 # 9. 統一性ではなく一貫性
-We should use the same language and the same design patterns wherever possible. This helps people get familiar with our services, but when this isn’t possible we should make sure our approach is consistent.
+私は同じデザイン言語と同じデザインパターンをできる限り使うわなければいけません。これにより人とサービスとの距離を近づけます。もしそれが難しい場合は少なくともそのアプローチに一貫性があることを持たせなければいけません。
 
-This isn’t a straitjacket or a rule book. Every circumstance is different. When we find patterns that work we should share them, and talk about why we use them. But that shouldn’t stop us from improving or changing them in the future when we find better ways of doing things or the needs of users change.
+これは拘束衣やルールブックではありません。様々な状況が考えられます。良いパターンがあれば共有すべきで、なぜそれを使うべきか議論すべきです。しかし、それが将来の改善の妨げになるようにしてはいけません。
 
 # 10. オープンにする。ベターにつながる。
-We should share what we’re doing whenever we can. With colleagues, with users, with the world. Share code, share designs, share ideas, share intentions, share failures. The more eyes there are on a service the better it gets - howlers are spotted, better alternatives are pointed out, the bar is raised.
+私たちのしていることを可能な限り共有しなければいけません。同僚と、ユーザーと、そして世界と。コード、デザイン、アイデア、意図、そして失敗を。サービスにより多くの目が向けられるほど、そのサービスは改善されます。叫んでいる人を見つけ、より良い代替案が指摘され、水準が上がります。
 
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community. We should pay that back.
+
+# 日本語訳について
+デザイン原則について一つだけ注意点。デザイン原則はプロジェクトごとに作られるべきです。GOV.UKのデザイン原則は公共サービスのコンテキストをもとに作られています。
