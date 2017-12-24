@@ -40,4 +40,4 @@ Much of what we’re doing is only possible because of open source code and the 
 
 クルマの自動運転にはクルマの自動運転のデザイン原則が必要ですし、公共交通機関にはそのコンテキストにあったデザイン原則が必要です。それでも、このGOV.UKは基本的なデザイン原則が多く含まれているため、自分たちのデザイン原則と比べてると色々な発見があるかもしれません。日本語版の作成意図はそんなところにあります。
 
-デザイン原則の作り方は[18Fメソッドカード日本語版](https://github.com/and-design/f18-method-cards "18Fメソッドカード日本語版")が参考になると思います。
+デザイン原則の作り方はアメリカ政府機関の18Fが作成した”18F Method Cards”の日本語版[18Fメソッドカード日本語版](https://github.com/and-design/f18-method-cards "18Fメソッドカード日本語版")でも紹介されています。
