@@ -5,10 +5,10 @@ Japanese version of GOV.UK Design Principle Poster
 サービスデザインはユーザーニーズの特定からはじまります。ユーザーが誰なのか分からなければ、正しくつくることはできません。リサーチをし、データを分析し、ユーザーと話をしましょう。推測はしない。ユーザーに共感を持ち、彼らが「欲しいと言もの」と「実際に必要とするもの」は違うとことも注意しましょう。
 
 # 2. より少なく
-Government should only do what only government can do. If we’ve found a way of doing something that works, we should make it reusable and shareable instead of reinventing the wheel every time. This means building platforms and registers others can build upon, providing resources (like APIs) that others can use, and linking to the work of others. We should concentrate on the irreducible core.
+政府は政府でしかできないことだけをするべきです。何かできることがわかったら、再利用できるよう、共有できるようにするべきです。毎回「車輪の再発明」は必要ありません。つまり、プラットフォームを作ること、APIなど外部の組織や個人が使えるものを提供することです。私たちはこれ以上減らすことができないコアに集中すべきです。
 
 # 3. データからデザインする
-In most cases, we can learn from real world behaviour by looking at how existing services are used. Let data drive decision-making, not hunches or guesswork. Keep doing that after taking your service live, prototyping and testing with users then iterating in response. Analytics should be built-in, always on and easy to read. They’re an essential tool.
+多くの場合、私たちは実際のユーザーがどのように既存システムを利用しているか見ることで学ぶことができます。人の感や推測ではなく、データに判断をさせましょう。Keep doing that after taking your service live, prototyping and testing with users then iterating in response. Analytics should be built-in, always on and easy to read. They’re an essential tool.
 
 # 4. シンプルにするためにハードワークをする
 Making something look simple is easy. Making something simple to use is much harder - especially when the underlying systems are complex - but that’s what we should be doing. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.
