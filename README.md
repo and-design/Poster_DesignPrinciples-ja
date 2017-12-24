@@ -17,7 +17,7 @@ Japanese version of GOV.UK Design Principle Poster
 良いサービスを作る最良の方法は小さく作ってワイルドに反復して改善することです。初期からMVPをリリースして実際のユーザーとテストしましょう。アルファ、ベータ、ライブに移行するごとに機能を追加したり動かない機能を削除します。これはフィードバックからの改善によるものです。反復はリスクを削減します。大失敗を回避することを助け、小さな失敗を学びとします。プロトタイプがうまくいかない場合、それを捨てて新しくスタートすることを恐れないように。
 
 # 6. 全ての人のために
-Accessible design is good design. Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the whole country, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start.
+誰でも使えるデザインはよいデザインです。私たちが作る全ては包含的、わかりやすく、読みやすくなければいけません。もしそのためにエレガンスを捨てなければいけないのであれば、捨てましょう。私たちはニーズを満たすサービスを作っています。私たちは国全体のために作っています、Webを使い慣れた人だけではなく。そのサービスを最も必要とする人は最もWebから離れた人なのかもしれません。そういう人たちを最初から考慮に入れましょう。
 
 # 7. コンテキストを理解する
 We’re not designing for a screen, we’re designing for people. We need to think hard about the context in which they’re using our services. Are they in a library? Are they on a phone? Are they only really familiar with Facebook? Have they never used the web before?
