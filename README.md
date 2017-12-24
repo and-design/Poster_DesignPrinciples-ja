@@ -36,4 +36,6 @@ Japanese version of GOV.UK Design Principle Poster
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community. We should pay that back.
 
 # 日本語訳について
-デザイン原則について一つだけ注意点。デザイン原則はプロジェクトごとに作られるべきです。GOV.UKのデザイン原則は公共サービスのコンテキストをもとに作られています。
+デザイン原則について一つだけ注意点。デザイン原則はプロジェクトごとに作られるべきです。GOV.UKのデザイン原則は公共サービスのコンテキストをもとに作られています。このデザイン原則を自分たちがそのまま採用しても意味がありません。そのような意図でこの日本語版は作られていません。
+
+クルマの自動運転にはクルマの自動運転のデザイン原則が必要ですし、公共交通機関にはそのコンテキストにあったデザイン原則が必要です。それでも、このGOV.UKは基本的なデザイン原則が多く含まれているため、自分たちのデザイン原則と比べてると色々な発見があるかもしれません。日本語版の作成意図はそんなところにあります。
