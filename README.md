@@ -20,7 +20,7 @@ Japanese version of GOV.UK Design Principle Poster
 誰でも使えるデザインはよいデザインです。私たちが作る全ては包含的、わかりやすく、読みやすくなければいけません。もしそのためにエレガンスを捨てなければいけないのであれば、捨てましょう。私たちはニーズを満たすサービスを作っています。私たちは国全体のために作っています、Webを使い慣れた人だけではなく。そのサービスを最も必要とする人は最もWebから離れた人なのかもしれません。そういう人たちを最初から考慮に入れましょう。
 
 # 7. コンテキストを理解する
-We’re not designing for a screen, we’re designing for people. We need to think hard about the context in which they’re using our services. Are they in a library? Are they on a phone? Are they only really familiar with Facebook? Have they never used the web before?
+私たちはスクリーンのためにデザインをしているのではなく、人のためにデザインをしています。その人たちが私たちのサービスを利用する背景をよく理解しなければいけません。彼らは図書館にいるのでしょうか？電話を使ってるのでしょうか？Facebookしか使わないのでしょうか？そもそもWebを使ったことがあるのでしょうか？
 
 # 8. Webサイトではなくデジタルサービスを作る
 A service is something that helps people to do something. Our job is to uncover user needs, and build the service that meets those needs. Of course much of that will be pages on the web, but we’re not here to build websites. The digital world has to connect to the real world, so we have to think about all aspects of a service, and make sure they add up to something that meets user needs.
